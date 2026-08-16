@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://magok-shirts-note.go-hapjeong-club.xyz/sitemap.xml
+Sitemap: https://magok-shirts-note.go-hapjeong-club.xyz/sitemap-pages.xml
